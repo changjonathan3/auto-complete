@@ -1,0 +1,9 @@
+Jonathan Chang
+CS1501
+Spring 18
+Garrison
+
+Approach to tracking user history
+I decided to use an ArrayList of type string to track the user history.
+I thought it was the most efficient way to store the words, and be able to use them in the program.
+This included finding potential matches, and comparisons with search strings. 
